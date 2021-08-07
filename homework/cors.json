@@ -1,0 +1,7 @@
+[
+  {
+    "origin": ["https://placeimg.com/640/480/people"],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  }
+]
